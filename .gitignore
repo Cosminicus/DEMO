@@ -1,0 +1,18 @@
+# Claude Code settings (personal)
+.claude/
+
+# VS Code settings (personal)
+.vscode/
+
+# MCP configuration (optional - remove this line if you want to share MCP config)
+.mcp.json
+
+# macOS
+.DS_Store
+
+# Node modules (if you add JavaScript later)
+node_modules/
+
+# Environment variables
+.env
+.env.local
